@@ -7,7 +7,7 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 
-// Simplifed xv6 shell. 
+// Simplifed xv6 shell.
 
 #define MAXARGS 10
 
